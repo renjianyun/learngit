@@ -1,0 +1,7 @@
+≥ı ºªØ≤÷ø‚
+
+git init
+
+git init project-name
+
+git clone url
